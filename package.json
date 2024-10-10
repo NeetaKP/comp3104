@@ -19,6 +19,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
     "homepage": "https://NeetaKP.github.io/comp3104"
+    
   },
   "eslintConfig": {
     "extends": [
